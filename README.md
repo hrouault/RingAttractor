@@ -1,12 +1,14 @@
 This repository contains the code associated to the paper:
 
-*Dissecting ring attractor dynamics in the Drosophila central brain*
+**Ring Attractor Dynamics in the *Drosophila* Central Brain**
 
 Authors: Sung Soo Kim\*, Hervé Rouault\*, Shaul Druckmann†, Vivek Jayaraman†
 
-
 \* Equal contributors
 † Correspondence to: druckmanns@janelia.hhmi.org or vivek@janelia.hhmi.org
+
+
+Science, 2017, doi: 10.1126/science.aal4835
 
 
 Bump sampling
